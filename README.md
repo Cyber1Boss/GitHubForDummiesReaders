@@ -64,4 +64,3 @@ Table
 | @ruairiodonohoe              | Yet another Test!                                                            |
 | @John-8-12                   | I'm learning about computers and programming this Christmas |
 | @Cyber1Boss                  | I am learning CSS, html, and GitHub. I have multpile IT certs, and am looking for a remote position. |
-|------------------------------|
